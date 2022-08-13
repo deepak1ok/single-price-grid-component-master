@@ -18,7 +18,7 @@
 ### Links
 
 - Solution URL: (https://github.com/deepak1ok/single-price-grid-component-master.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://single-price-grid-component-deepak.netlify.app/)
 
 ## My process
 
